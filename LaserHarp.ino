@@ -14,7 +14,6 @@ const int LDR_COUNT = 8;							// # of LDRs
 const int BUTTON_COUNT = 4;							// # of buttons
 const int OCTAVE_COUNT = 7;							// # of used octaves
 
-
 const int notes[OCTAVE_COUNT][LDR_COUNT]  = {
 	{ NOTE_C1, NOTE_D1, NOTE_E1, NOTE_F1, NOTE_G1, NOTE_A1, NOTE_B1, NOTE_C2 },	
 	{ NOTE_C2, NOTE_D2, NOTE_E2, NOTE_F2, NOTE_G2, NOTE_A2, NOTE_B2, NOTE_C3 },	
