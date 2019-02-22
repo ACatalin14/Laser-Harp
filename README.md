@@ -32,8 +32,8 @@ For a demo of my laser harp you can check out [this video][video].
 
 ## The final product
 <div>
-  <img src="https://i.imgur.com/WD0i3eb.jpg" alt="Front View Image" width=49.9%>
-  <img src="https://i.imgur.com/42DQdkE.jpg" alt="Back View Image" width=49.9%>
+  <img src="https://i.imgur.com/WD0i3eb.jpg" alt="Front View Image" width=49%>
+  <img src="https://i.imgur.com/42DQdkE.jpg" alt="Back View Image" width=49%>
   <img src="https://i.imgur.com/R3jmAKC.jpg" alt="Top View Image" width=100%>
 </div>
 
