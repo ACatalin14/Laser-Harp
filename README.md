@@ -31,9 +31,11 @@ For a demo of my laser harp you can check out [this video][video].
 - expanded polystyrene (for harp's frame and box).
 
 ## The final product
-Front view  
-Back view  
-Side view
+<div>
+  <img src="https://i.imgur.com/WD0i3eb.jpg" alt="Front View Image" width=50%>
+  <img src="https://i.imgur.com/42DQdkE.jpg" alt="Back View Image" width=50%>
+  <img src="https://i.imgur.com/R3jmAKC.jpg" alt="Top View Image" width=100%>
+</div>
 
 [Arduino IDE]: https://www.arduino.cc/en/main/software
 [video]: https://youtu.be/Ydk5SONf4BQ
