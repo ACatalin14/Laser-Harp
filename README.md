@@ -8,6 +8,7 @@ At the initialization stage of the harp, each sensor reads some base values for 
 For a demo of my laser harp you can check out [this video][video].
 
 ## Harp Features
+- height: 62 _cm_ (48 _cm_ the frame + 14 _cm_ the box)
 - 8 chords (_C, D, E, F, G, A, B, C_);
 - 7 octaves (playable notes from _C1_ to _C8_);
 - easily changing the octaves by pressing one of the two buttons (_Increase Octave_/_Decrease Octave_);
