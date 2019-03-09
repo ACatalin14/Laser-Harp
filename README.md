@@ -5,7 +5,7 @@ This is an arduino course project made using [the Arduino IDE][Arduino IDE]. My 
 The working principle is as follows: each laser is shining on an LDR (Light Dependent Resistor), and when a sensor is getting lesser light (the laser beam has been interrupted), the corresponding note is played.  
 At the initialization stage of the harp, each sensor reads some base values for the time when natural light, respectively a laser beam, shines on them. After this stage, the sensors will keep on reading values and compare them to the base values, in order to find out if a note is needed to be played.
 
-For a demo of my laser harp you can check out [[THIS VIDEO]][video].
+For a demo of my laser harp you can check out [**[THIS VIDEO]**][video].
 
 ## Harp Features
 - height: 62 _cm_ (48 _cm_ the frame + 14 _cm_ the box)
